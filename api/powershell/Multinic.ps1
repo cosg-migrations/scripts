@@ -1,4 +1,4 @@
-#  Script name:   CreateServersFromCSV.ps1
+#  Script name:   Multinic.ps1
 #  Version:       1.0
 #  Created on:    2/1/2016
 #  Author:        Jake Malmad
