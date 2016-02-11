@@ -9,11 +9,11 @@
 #Requires -Version 3
 
 #Change variables to match your user API key and password - V1
-[String]$APIKey = "54ed37593bd74fd099d5de1c3a7d8479"
-[String]$APIPassword = "{N]hl61DEs?x45g-"
+[String]$APIKey = ""
+[String]$APIPassword = ""
 
 #Change variables to match your user portal username and password - V2
-[String]$username = "jmalmad.ctlc"
+[String]$username = ""
 [String]$password = ""
 
 #Globally used variables
